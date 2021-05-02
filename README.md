@@ -9,8 +9,7 @@ git commit -m "added new file"
 ```
 
 
-``` 
-javascrtipt
+``` javascrtipt
 const express = require("express");
 const app = express();
 ```
